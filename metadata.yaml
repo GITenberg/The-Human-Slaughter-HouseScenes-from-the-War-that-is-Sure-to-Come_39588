@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '40099'
     url: http://www.gutenberg.org/2009/agents/40099
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39588#The-Human-Slaughter-HouseScenes-from-the-War-that-is-Sure-to-Come
 gutenberg_issued: '2012-05-01'
 gutenberg_type: Text
 identifiers:
