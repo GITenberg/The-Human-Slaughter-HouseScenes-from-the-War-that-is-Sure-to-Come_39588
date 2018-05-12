@@ -1,0 +1,34 @@
+_repo: The-Human-Slaughter-HouseScenes-from-the-War-that-is-Sure-to-Come_39588
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Williams, Oakley
+    gutenberg_agent_id: '40100'
+    url: http://www.gutenberg.org/2009/agents/40100
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lamszus, Wilhelm
+    birthdate: 1881
+    deathdate: 1965
+    gutenberg_agent_id: '40099'
+    url: http://www.gutenberg.org/2009/agents/40099
+description: ''
+gutenberg_issued: '2012-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39588'
+  lccn: '13010112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'War'
+- !lcsh 'Imaginary wars and battles'
+- !lcc 'JX'
+title: 'The Human Slaughter-House: Scenes from the War that is Sure to Come'
+url: http://www.gutenberg.org/ebooks/39588
